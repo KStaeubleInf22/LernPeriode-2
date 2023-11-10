@@ -19,8 +19,13 @@ Heute habe ich am Portfolio 319 gearbietet. Ich konnte alle Grundlagen fertigste
 ## Arbeitspakete für 03.11.2023
 - [X] Das Projekt anfangen.
 
+Heute war mein Hauptfokus auf die kommenden Tests. Da wir im November viele Tests haben werden, habe ich micht entschieden die Kantitests über das Informatikprojekt zu prioritisieren. Ich habe mir die Lernziele für den Geographie Test angeschaut und studiert. das Gleiche habe ich für Chemie gemacht. Ich konnte daher nicht viel Zeit zum Programmierprojekt witmen. (55) 
+
+## Arbeitspakete für 10.11.2023
+- [X] Das Projekt anfangen.
+
+Heute habe ich mit meiner Gruppe am Programmierprojekt vom Herr Fähndrich gearbeitet. Wir haben uns ins Nebenzimmer gesetzt und haben angefangen zu arbeiten. Nora hat an der Dokumentation im Github gearbeitet. Ich und Eloi haben am Code gearbeitet und versuchen "using" funktionen einzufügen. um 3 sind wir wieder ins Zimmer gegangen und haben seperat gearbeiten. Ich bin zu ihnen gekommen und habe sie gefragt wie man ein Liniendiagramm in Github erstellen kann. Wir haben uns dann geeinigt, dass ein Balkendiagramm einfacher und verlässlicher wäre als ein Liniendiagramm. (87)
+
 | Nummer | Vorbereitung | Eingabe  | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | ---|
 | 1 |	Programm in VS geöffnet,  mit ▶️	| Programm start	| Das spiel beginnt.	| nein |
-
-Heute war mein Hauptfokus auf die kommenden Tests. Da wir im November viele Tests haben werden, habe ich micht entschieden die Kantitests über das Informatikprojekt zu prioritisieren. Ich habe mir die Lernziele für den Geographie Test angeschaut und studiert. das Gleiche habe ich für Chemie gemacht. Ich konnte daher nicht viel Zeit zum Programmierprojekt witmen. (55) 
