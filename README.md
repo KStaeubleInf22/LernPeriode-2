@@ -23,6 +23,8 @@ Heute war mein Hauptfokus auf die kommenden Tests. Da wir im November viele Test
 
 ## Arbeitspakete für 10.11.2023
 - [X] Das Projekt anfangen.
+- [X] Am Herr Fähndrich Projekt arbeiten.
+- [X] Mich über Liniendiagramme in Winforms informieren.
 
 Heute habe ich mit meiner Gruppe am Programmierprojekt vom Herr Fähndrich gearbeitet. Wir haben uns ins Nebenzimmer gesetzt und haben angefangen zu arbeiten. Nora hat an der Dokumentation im Github gearbeitet. Ich und Eloi haben am Code gearbeitet und versuchen "using" funktionen einzufügen. um 3 sind wir wieder ins Zimmer gegangen und haben seperat gearbeiten. Ich bin zu ihnen gekommen und habe sie gefragt wie man ein Liniendiagramm in Github erstellen kann. Wir haben uns dann geeinigt, dass ein Balkendiagramm einfacher und verlässlicher wäre als ein Liniendiagramm. (87)
 
