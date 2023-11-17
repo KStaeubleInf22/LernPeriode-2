@@ -31,3 +31,17 @@ Heute habe ich mit meiner Gruppe am Programmierprojekt vom Herr Fähndrich gearb
 | Nummer | Vorbereitung | Eingabe  | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | ---|
 | 1 |	Programm in VS geöffnet,  mit ▶️	| Programm start	| Das spiel beginnt.	| nein |
+
+## Arbeitspakete für 17.11.2023
+- [X] Am Projekt weiter arbeiten.
+- [] Am Herr Fähndrich Projekt arbeiten.
+- [X] Vorbereiten für nächste Woche.
+
+Heute habe ich nicht so viel für das Lern-Atelier machen können. Da wir heute den Standortsbestimmungstest hatten, konnte ich erst später anfangen mit arbeiten. Als ich zuhause angekommen bin, habe ich angefangen am programmierprojekt zu arbeiten. Ich habe aber zu grossteil mich mit anderen sachen beschäftigt, die für Aarau sind, wie zum Beispiel französich wörter lernen und aufgaben in Finanzen üben. (61)
+
+## Arbeitspakete für 24.11.2023
+- [] Am Projekt weiter arbeiten.
+- [] Am Herr Fähndrich Projekt arbeiten.
+- [] für den Frau Rieder Test vorbereiten.
+
+
