@@ -28,10 +28,6 @@ Heute war mein Hauptfokus auf die kommenden Tests. Da wir im November viele Test
 
 Heute habe ich mit meiner Gruppe am Programmierprojekt vom Herr Fähndrich gearbeitet. Wir haben uns ins Nebenzimmer gesetzt und haben angefangen zu arbeiten. Nora hat an der Dokumentation im Github gearbeitet. Ich und Eloi haben am Code gearbeitet und versuchen "using" funktionen einzufügen. um 3 sind wir wieder ins Zimmer gegangen und haben seperat gearbeiten. Ich bin zu ihnen gekommen und habe sie gefragt wie man ein Liniendiagramm in Github erstellen kann. Wir haben uns dann geeinigt, dass ein Balkendiagramm einfacher und verlässlicher wäre als ein Liniendiagramm. (87)
 
-| Nummer | Vorbereitung | Eingabe  | Erwartete Ausgabe | Erfüllt? |
-| --- | --- | --- | --- | ---|
-| 1 |	Programm in VS geöffnet,  mit ▶️	| Programm start	| Das spiel beginnt.	| nein |
-
 ## Arbeitspakete für 17.11.2023
 - [X] Am Projekt weiter arbeiten.
 - [] Am Herr Fähndrich Projekt arbeiten.
@@ -42,6 +38,16 @@ Heute habe ich nicht so viel für das Lern-Atelier machen können. Da wir heute 
 ## Arbeitspakete für 24.11.2023
 - [] Am Projekt weiter arbeiten.
 - [] Am Herr Fähndrich Projekt arbeiten.
-- [] für den Frau Rieder Test vorbereiten.
+- [X] für den Frau Rieder Test vorbereiten.
 
+Ich habe heute das Modul 162 angeschaut. Wir werden in ein paar Wochen einen Test darüberschreiben. Ich habe zuerst durch alle Präsentationen geschaut. Ich habe dann nicht erfüllte aufgaben erarbeitet und mit den Lösungen vergleicht. Ich habe mich informiert, über den Unterschied zwischen Logische und Konzeptionelle Datenbanken. Ich habe auch in Visual Paradigm versucht, die nötigen Eigenschaften korrekt einzufügen. (59)
+
+| Nummer | Vorbereitung | Eingabe  | Erwartete Ausgabe | Erfüllt? |
+| --- | --- | --- | --- | ---|
+| 1 |	Programm in VS geöffnet,  mit ▶️	| Programm start	| Das spiel beginnt.	| nein |
+
+## Arbeitspakete für 01.12.2023
+- [] Screenshots und ein Video vom C# Projekt einfügen.
+- [] Mich für die Informatikprüfung am 6 December vorbereiten.
+- [] Vorbereitung für andere Kanti Tests und/oder Hausaufgaben.
 
