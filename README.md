@@ -30,24 +30,31 @@ Heute habe ich mit meiner Gruppe am Programmierprojekt vom Herr Fähndrich gearb
 
 ## Arbeitspakete für 17.11.2023
 - [X] Am Projekt weiter arbeiten.
-- [] Am Herr Fähndrich Projekt arbeiten.
+- [ ] Am Herr Fähndrich Projekt arbeiten.
 - [X] Vorbereiten für nächste Woche.
 
 Heute habe ich nicht so viel für das Lern-Atelier machen können. Da wir heute den Standortsbestimmungstest hatten, konnte ich erst später anfangen mit arbeiten. Als ich zuhause angekommen bin, habe ich angefangen am programmierprojekt zu arbeiten. Ich habe aber zu grossteil mich mit anderen sachen beschäftigt, die für Aarau sind, wie zum Beispiel französich wörter lernen und aufgaben in Finanzen üben. (61)
 
 ## Arbeitspakete für 24.11.2023
-- [] Am Projekt weiter arbeiten.
-- [] Am Herr Fähndrich Projekt arbeiten.
+- [ ] Am Projekt weiter arbeiten.
+- [ ] Am Herr Fähndrich Projekt arbeiten.
 - [X] für den Frau Rieder Test vorbereiten.
 
 Ich habe heute das Modul 162 angeschaut. Wir werden in ein paar Wochen einen Test darüberschreiben. Ich habe zuerst durch alle Präsentationen geschaut. Ich habe dann nicht erfüllte aufgaben erarbeitet und mit den Lösungen vergleicht. Ich habe mich informiert, über den Unterschied zwischen Logische und Konzeptionelle Datenbanken. Ich habe auch in Visual Paradigm versucht, die nötigen Eigenschaften korrekt einzufügen. (59)
+
+## Arbeitspakete für 01.12.2023
+- [ ] Screenshots und ein Video vom C# Projekt einfügen.
+- [X] Mich für die Informatikprüfung am 6 December vorbereiten.
+- [X] Vorbereitung für andere Kanti Tests und/oder Hausaufgaben.
 
 | Nummer | Vorbereitung | Eingabe  | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | ---|
 | 1 |	Programm in VS geöffnet,  mit ▶️	| Programm start	| Das spiel beginnt.	| nein |
 
-## Arbeitspakete für 01.12.2023
-- [] Screenshots und ein Video vom C# Projekt einfügen.
-- [] Mich für die Informatikprüfung am 6 December vorbereiten.
-- [] Vorbereitung für andere Kanti Tests und/oder Hausaufgaben.
+Heute habe ich am Modul 162 gearbeitet. Ich habe mich mit den aufgaben des Moduls bekannt gemacht und ich habe am Portfolio gearbeitet. Ich habe ein Thema fürs Portfolio gewählt und das Portfolio schon angefangen. Das Programmierprojekt wird aber zu schwer, ohne Winforms zu machen. Ich werde versuchen das Projekt mit Winforms zu machen für das nächste Mal. (58)
+
+## Arbeitspakete für 08.12.2023
+- [ ] Screenshots und ein Video vom C# Projekt einfügen.
+- [ ] Vorbereitung für andere Kanti Tests und/oder Hausaufgaben.
+- [ ] Den Code auf Github hoch laden.
 
