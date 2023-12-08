@@ -47,14 +47,14 @@ Ich habe heute das Modul 162 angeschaut. Wir werden in ein paar Wochen einen Tes
 - [X] Mich für die Informatikprüfung am 6 December vorbereiten.
 - [X] Vorbereitung für andere Kanti Tests und/oder Hausaufgaben.
 
-| Nummer | Vorbereitung | Eingabe  | Erwartete Ausgabe | Erfüllt? |
-| --- | --- | --- | --- | ---|
-| 1 |	Programm in VS geöffnet,  mit ▶️	| Programm start	| Das spiel beginnt.	| nein |
-
 Heute habe ich am Modul 162 gearbeitet. Ich habe mich mit den aufgaben des Moduls bekannt gemacht und ich habe am Portfolio gearbeitet. Ich habe ein Thema fürs Portfolio gewählt und das Portfolio schon angefangen. Das Programmierprojekt wird aber zu schwer, ohne Winforms zu machen. Ich werde versuchen das Projekt mit Winforms zu machen für das nächste Mal. (58)
 
 ## Arbeitspakete für 08.12.2023
 - [ ] Screenshots und ein Video vom C# Projekt einfügen.
-- [ ] Vorbereitung für andere Kanti Tests und/oder Hausaufgaben.
+- [X] Vorbereitung für andere Kanti Tests und/oder Hausaufgaben.
 - [ ] Den Code auf Github hoch laden.
 
+Heute habe ich am Code gearbeitet, ich habe versucht den Code jetzt mit Winforms zu machen aber soweit hatte ich noch kein Erfolg. Es hat momenthan mehrere Probleme die ich nicht weiss, wie ich sie beheben soll. Dazu habe ich noch an den Hausaufgaben gearbeitet, die uns Frau Klink auf heute Abend gegeben hat. Schlussentlich habe ich noch ein wenig an unserem neuen Modul, dass wir bei Herr Fähndrich haben, gearbeitet. (71)
+
+## Arbeitspakete für 15.12.2023
+# Ich werde an diesem tag nicht am Modul arbeiten können, wegen familiären Gründen.
