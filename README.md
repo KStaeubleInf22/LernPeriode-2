@@ -57,4 +57,15 @@ Heute habe ich am Modul 162 gearbeitet. Ich habe mich mit den aufgaben des Modul
 Heute habe ich am Code gearbeitet, ich habe versucht den Code jetzt mit Winforms zu machen aber soweit hatte ich noch kein Erfolg. Es hat momenthan mehrere Probleme die ich nicht weiss, wie ich sie beheben soll. Dazu habe ich noch an den Hausaufgaben gearbeitet, die uns Frau Klink auf heute Abend gegeben hat. Schlussentlich habe ich noch ein wenig an unserem neuen Modul, dass wir bei Herr Fähndrich haben, gearbeitet. (71)
 
 ## Arbeitspakete für 15.12.2023
-# Ich werde an diesem tag nicht am Modul arbeiten können, wegen familiären Gründen.
+### Ich werde an diesem tag nicht am Modul arbeiten können, wegen familiären Gründen.
+
+## Arbeitspakete für 22.12.2023
+
+- [ ] Code reparieren.
+- [ ] Code Fertigstellen.
+- [ ] Screenshots aufladen.
+
+Ich habe am Informatikprojekt gearbeitet und habe versucht, den code zum Laufen zu bringen, aber ich konnte die Fehler im Code nicht beheben und den Code konnte ich nicht fertig stellen. Ich persönlich bin enttäuscht, dass ich es nicht schaffen konnte, da ich glaube, dass ich in der Lage wäre, dieses Problem zu beheben. (54)
+
+# Reflexion
+Ich habe versagt, den Code funktional fertig zu stellen. Ich werde versuchen, beim nächsten Projekt besser am Code arbeiten zu können, so damit ich am Ende eine funktionale Applikation habe.
