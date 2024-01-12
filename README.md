@@ -69,3 +69,5 @@ Ich habe am Informatikprojekt gearbeitet und habe versucht, den code zum Laufen 
 
 # Reflexion
 Ich habe versagt, den Code funktional fertig zu stellen. Ich werde versuchen, beim nächsten Projekt besser am Code arbeiten zu können, so damit ich am Ende eine funktionale Applikation habe.
+
+In der dritten Lern-Periode will ich versuchen, ein simpleres Projekt zu machen, wo ich auch C# besser verstehen kann und den Code effektiver anwenden kann. Das grösste Problem bei diesem Projekt war dass ich denn Code nicht gut verstehen konnte und deswegen wird LP 3 darauf fokussiert sein, an Projekten zu arbeiten, in welchen ich die Sprache besser verstehen kann.
